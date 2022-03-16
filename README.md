@@ -1,2 +1,2 @@
-# Music-Genre-Recognition
-Bu projede müzik türlerinin sınıflandırılması için geleneksel makine öğrenmesi ve derin öğrenme yöntemlerinin karşılaştırma çalışması gerçekleştirildi.
+# Müzik Türlerinin Sınıflandırılması
+Bu projede müzik türlerinin sınıflandırılması için geleneksel makine öğrenmesi ve derin öğrenme yöntemlerinin başarım karşılaştırma çalışmasını gerçekleştirdim.
